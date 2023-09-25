@@ -1,0 +1,76 @@
+c:\users\user\documents\visual studio 2015\Projects\Penjualan\Penjualan\bin\Debug\Penjualan.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Penjualan\Penjualan\bin\Debug\Penjualan.exe
+c:\users\user\documents\visual studio 2015\Projects\Penjualan\Penjualan\bin\Debug\Penjualan.pdb
+c:\users\user\documents\visual studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.Barang.resources
+c:\users\user\documents\visual studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.exe
+c:\users\user\documents\visual studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.Dashboard.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.Home.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.Splash.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.pelanggan.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.Dialog_Barang.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.Dialog_Pelanggan.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.transaksi.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Penjualan\Penjualan\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.Login.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.Admin.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.karyawan.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.Dialog_Pengembalian.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.Return_Barang.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.Laporan_Penjualan.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.Laporan_Pengembalian.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\Penjualan\Penjualan\bin\Debug\Penjualan.exe.config
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\Penjualan\Penjualan\bin\Debug\Penjualan.exe
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\Penjualan\Penjualan\bin\Debug\Penjualan.pdb
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.csproj.AssemblyReference.cache
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.Admin.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.Barang.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.Dashboard.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.Dialog_Barang.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.Dialog_Pelanggan.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.Dialog_Pengembalian.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.Home.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.karyawan.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.Laporan_Pengembalian.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.Laporan_Penjualan.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.Login.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.pelanggan.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.Properties.Resources.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.Return_Barang.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.Splash.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.transaksi.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.csproj.GenerateResource.cache
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.csproj.CoreCompileInputs.cache
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.csproj.CopyComplete
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.exe
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.pdb
+D:\project desktop\Penjualan\Penjualan\bin\Debug\Penjualan.exe.config
+D:\project desktop\Penjualan\Penjualan\bin\Debug\Penjualan.exe
+D:\project desktop\Penjualan\Penjualan\bin\Debug\Penjualan.pdb
+D:\project desktop\Penjualan\Penjualan\obj\Debug\Penjualan.csproj.AssemblyReference.cache
+D:\project desktop\Penjualan\Penjualan\obj\Debug\Penjualan.Admin.resources
+D:\project desktop\Penjualan\Penjualan\obj\Debug\Penjualan.Barang.resources
+D:\project desktop\Penjualan\Penjualan\obj\Debug\Penjualan.Dashboard.resources
+D:\project desktop\Penjualan\Penjualan\obj\Debug\Penjualan.Dialog_Barang.resources
+D:\project desktop\Penjualan\Penjualan\obj\Debug\Penjualan.Dialog_Pelanggan.resources
+D:\project desktop\Penjualan\Penjualan\obj\Debug\Penjualan.Dialog_Pengembalian.resources
+D:\project desktop\Penjualan\Penjualan\obj\Debug\Penjualan.Home.resources
+D:\project desktop\Penjualan\Penjualan\obj\Debug\Penjualan.karyawan.resources
+D:\project desktop\Penjualan\Penjualan\obj\Debug\Penjualan.Laporan_Pengembalian.resources
+D:\project desktop\Penjualan\Penjualan\obj\Debug\Penjualan.Laporan_Penjualan.resources
+D:\project desktop\Penjualan\Penjualan\obj\Debug\Penjualan.Login.resources
+D:\project desktop\Penjualan\Penjualan\obj\Debug\Penjualan.pelanggan.resources
+D:\project desktop\Penjualan\Penjualan\obj\Debug\Penjualan.Properties.Resources.resources
+D:\project desktop\Penjualan\Penjualan\obj\Debug\Penjualan.Return_Barang.resources
+D:\project desktop\Penjualan\Penjualan\obj\Debug\Penjualan.Splash.resources
+D:\project desktop\Penjualan\Penjualan\obj\Debug\Penjualan.transaksi.resources
+D:\project desktop\Penjualan\Penjualan\obj\Debug\Penjualan.csproj.GenerateResource.cache
+D:\project desktop\Penjualan\Penjualan\obj\Debug\Penjualan.csproj.CoreCompileInputs.cache
+D:\project desktop\Penjualan\Penjualan\obj\Debug\Penjualan.csproj.CopyComplete
+D:\project desktop\Penjualan\Penjualan\obj\Debug\Penjualan.exe
+D:\project desktop\Penjualan\Penjualan\obj\Debug\Penjualan.pdb
+D:\project desktop\Penjualan\Penjualan\obj\Debug\Penjualan.Gudang.resources
+D:\project desktop\Penjualan\Penjualan\obj\Debug\Penjualan.Pemasok.resources
